@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>pic3.jpg</filename>
+	<path>C:/Users/furka/OneDrive/Desktop/new AI project/imgs/pic3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Refrigerator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>26</ymin>
+			<xmax>234</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>209</ymin>
+			<xmax>288</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

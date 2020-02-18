@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>pic44.jpg</filename>
+	<path>C:/Users/furka/OneDrive/Desktop/new AI project/imgs/pic44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>662</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>244</ymin>
+			<xmax>574</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
